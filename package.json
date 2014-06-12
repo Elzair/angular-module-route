@@ -1,6 +1,6 @@
 {
   "name": "angular-module-route",
-  "version": "1.2.16",
+  "version": "1.2.17",
   "description": "Route AngularJS module suitable for bundling with Browserify or Webpack",
   "main": "angular-route.js",
   "scripts": {
