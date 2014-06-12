@@ -1,7 +1,7 @@
 angular-module-route
 ====================
 
-Route AngularJS module suitable for bundling with Browserify or Webpack
+Route AngularJS module suitable for bundling with [Browserify](http://browserify.org/) or [Webpack](http://webpack.github.io/)
 
 Installation
 ------------
